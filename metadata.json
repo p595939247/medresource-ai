@@ -1,0 +1,5 @@
+{
+  "name": "MedResource AI: Disease Risk & Resource Optimizer",
+  "description": "Advanced medical resource optimization platform using PPO Reinforcement Learning, Complex Network Analysis, and SimPy-based clinical simulations.",
+  "requestFramePermissions": []
+}
